@@ -10,7 +10,7 @@ Esta práctica consiste en el uso de shaders de fragmento para crear un prototí
 
 Para la implementación he usado Processing 3.5.4.
 
-**Vista:** Nos encontramos con una sola vista estática sin interacción donde se proyecta una animación visual.
+**Vista:** Nos encontramos con una sola vista sin interacción donde se proyecta una animación visual.
 
 **Figuras:** Para la práctica he generado una matriz de cuadrados a la que realizaré una serie de transformaciones.
 
